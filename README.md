@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 ```txt
 Total Time: 9 hrs 38 mins
 
-C++               9 hrs 26 mins   ████████████████████████▒   97.79 %
-Kotlin            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-Properties        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Gradle            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+C++               9 hrs 26 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦   97.79 %
+Kotlin            10 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.83 %
+Properties        1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.29 %
+Gradle            0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.05 %
+Other             0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.04 %
 ```
 
 <!--END_SECTION:waka-->
