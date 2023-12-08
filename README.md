@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
+Total Time: 9 hrs 38 mins
+
 C++               9 hrs 26 mins   ████████████████████████▒   97.79 %
 Kotlin            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 Properties        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
