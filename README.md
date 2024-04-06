@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 11 mins
+Total Time: 4 hrs 41 mins
 
-C++   1 hr 11 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+C++   4 hrs 41 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
 
 <!--END_SECTION:waka-->
