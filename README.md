@@ -26,14 +26,44 @@
 
 | | |
 |---|---|
-| **[<img src="assets/rezify.png" width="26" alt=""> Rezify](https://apkpure.com/p/com.m4isper.rezify)**<br><sub>AI photo enhancer — fully offline, on-device processing</sub> | **[<img src="assets/robotfactory.png" width="26" alt=""> Robot Factory: idle clicker](https://apkpure.com/p/com.m4isper.robotfactory)**<br><sub>Idle factory automation sim with prestige, artifacts and offline progress</sub> |
-| **[<img src="assets/gravity2048.png" width="26" alt=""> Gravity 2048](https://apkpure.com/p/com.m4isper.gravity2048)**<br><sub>2048 with real physics — throw falling balls, chain merges</sub> | **[<img src="assets/merge2048.png" width="26" alt=""> 2048 Merge](https://apkpure.com/p/com.m4isper.merge2048)**<br><sub>Minimalist classic 2048 with smooth animations and dark theme</sub> |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://apkpure.com/p/com.m4isper.rezify"><b><img src="assets/rezify.png" width="26" valign="middle" alt=""> Rezify</b></a><br>
+      <sub>AI photo enhancer — fully offline, on-device processing</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://apkpure.com/p/com.m4isper.robotfactory"><b><img src="assets/robotfactory.png" width="26" valign="middle" alt=""> Robot Factory: idle clicker</b></a><br>
+      <sub>Idle factory automation sim with prestige, artifacts and offline progress</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://apkpure.com/p/com.m4isper.gravity2048"><b><img src="assets/gravity2048.png" width="26" valign="middle" alt=""> Gravity 2048</b></a><br>
+      <sub>2048 with real physics — throw falling balls, chain merges</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://apkpure.com/p/com.m4isper.merge2048"><b><img src="assets/merge2048.png" width="26" valign="middle" alt=""> 2048 Merge</b></a><br>
+      <sub>Minimalist classic 2048 with smooth animations and dark theme</sub>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Open Source
 
-| | |
-|---|---|
-| **[🖥️ Mocksy](https://github.com/4isper/Mocksy)** [![demo](https://img.shields.io/badge/demo-live-a9fefe?style=flat-square)](https://mocksy-ashen.vercel.app)<br><sub>Browser-based mockup editor, 100% client-side — frames, annotations, animations, PNG/MP4/GIF export</sub> | **[⚡ KMPMLBench](https://github.com/4isper/KMPMLBench)**<br><sub>Cross-platform ML performance lab for Kotlin Multiplatform — benchmarks TFLite, ONNX, NCNN, MNN, ExecuTorch</sub> |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/4isper/Mocksy"><b>🖥️ Mocksy</b></a>
+      <a href="https://mocksy-ashen.vercel.app"><img src="https://img.shields.io/badge/demo-live-a9fefe?style=flat-square" alt="live demo"></a><br>
+      <sub>Browser-based mockup editor, 100% client-side — frames, annotations, animations, PNG/MP4/GIF export</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/4isper/KMPMLBench"><b>⚡ KMPMLBench</b></a><br>
+      <sub>Cross-platform ML performance lab for Kotlin Multiplatform — benchmarks TFLite, ONNX, NCNN, MNN, ExecuTorch</sub>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
