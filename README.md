@@ -94,7 +94,6 @@
       <img src="https://streak-stats.demolab.com?user=4isper&hide_border=true&background=00000000&ring=0F766E&fire=ff8c42&currStreakLabel=0F766E&sideColor=0F766E" alt="GitHub streak" />
     </picture>
   </a>
-  <img src="https://ghchart.rshah.org/0F766E/4isper" alt="Contribution graph" />
 </div>
 
 ## ⏱️ Coding Activity
