@@ -86,16 +86,6 @@
   </picture>
 </div>
 
-<div align="center">
-  <a href="https://github.com/4isper">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=4isper&hide_border=true&background=ecfdf5&ring=0F766E&fire=ff8c42&currStreakLabel=0F766E&sideColor=0F766E" />
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=4isper&hide_border=true&background=00000000&ring=0F766E&fire=ff8c42&currStreakLabel=0F766E&sideColor=0F766E" />
-      <img src="https://streak-stats.demolab.com?user=4isper&hide_border=true&background=00000000&ring=0F766E&fire=ff8c42&currStreakLabel=0F766E&sideColor=0F766E" alt="GitHub streak" />
-    </picture>
-  </a>
-</div>
-
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
