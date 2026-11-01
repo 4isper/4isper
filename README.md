@@ -45,6 +45,16 @@
       <sub>Minimalist classic 2048 with smooth animations and dark theme</sub>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://apkpure.com/p/com.m4isper.planets"><b><img src="assets/planets.png" width="26" valign="middle" alt=""> Planets</b></a><br>
+      <sub>NASA Astronomy Picture of the Day — endless space photo grid, works offline</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://apkpure.com/p/com.m4isper.habittracker"><b><img src="assets/habittracker.png" width="26" valign="middle" alt=""> Habit Tracker</b></a><br>
+      <sub>Daily habits — one-tap checkmarks, streaks and completion stats</sub>
+    </td>
+  </tr>
 </table>
 
 ## 🛠️ Open Source
@@ -60,6 +70,13 @@
       <a href="https://github.com/4isper/KMPMLBench"><b>⚡ KMPMLBench</b></a><br>
       <sub>Cross-platform ML performance lab for Kotlin Multiplatform — benchmarks TFLite, ONNX, NCNN, MNN, ExecuTorch</sub>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/4isper/ContactsApp"><b>📇 Contacts</b></a><br>
+      <sub>Native Android contacts manager — Compose, multi-module Clean Architecture, vCard/QR sharing, duplicate merge, PIN lock</sub>
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
