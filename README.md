@@ -55,6 +55,13 @@
       <sub>Daily habits — one-tap checkmarks, streaks and completion stats</sub>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://apkpure.com/p/com.m4isper.contactsapp"><b><img src="assets/contacts.png" width="26" valign="middle" alt=""> Contacts</b></a><br>
+      <sub>Contacts manager — groups, duplicate merge, vCard/QR sharing, PIN lock</sub>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ## 🛠️ Open Source
@@ -70,13 +77,6 @@
       <a href="https://github.com/4isper/KMPMLBench"><b>⚡ KMPMLBench</b></a><br>
       <sub>Cross-platform ML performance lab for Kotlin Multiplatform — benchmarks TFLite, ONNX, NCNN, MNN, ExecuTorch</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/4isper/ContactsApp"><b>📇 Contacts</b></a><br>
-      <sub>Native Android contacts manager — Compose, multi-module Clean Architecture, vCard/QR sharing, duplicate merge, PIN lock</sub>
-    </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
